@@ -1,0 +1,101 @@
+leaf_color,spots,wilting,soil_moisture,growth_rate,plant_condition,suggested_response
+Light Green,Many,None,15,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Yellow,Many,Mild,34,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Dark Green,Few,Mild,53,Normal,Healthy,Continue regular care and monitor weekly
+Brown,Many,Severe,14,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Yellow,Many,None,33,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Brown,Few,None,27,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Dark Green,None,Mild,48,Normal,Healthy,Continue regular care and monitor weekly
+Green,Few,None,60,Normal,Healthy,Continue regular care and monitor weekly
+Yellow,Many,None,80,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Green,None,Mild,49,Fast,Healthy,Continue regular care and monitor weekly
+Green,Many,None,78,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Brown,None,Mild,28,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Light Green,None,None,30,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Brown,Few,None,31,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Green,Few,None,50,Fast,Healthy,Continue regular care and monitor weekly
+Green,Few,None,31,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Green,Few,Mild,45,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Green,Many,Severe,26,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Brown,Many,Severe,39,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Dark Green,None,Mild,60,Normal,Healthy,Continue regular care and monitor weekly
+Yellow,Many,Mild,89,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Brown,Few,Mild,38,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Green,Few,None,65,Normal,Healthy,Continue regular care and monitor weekly
+Green,Many,Mild,35,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Dark Green,None,Mild,46,Fast,Healthy,Continue regular care and monitor weekly
+Dark Green,None,Mild,52,Fast,Healthy,Continue regular care and monitor weekly
+Light Green,Few,Severe,88,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Yellow,Many,Severe,34,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Pale Green,Many,Mild,10,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Dark Green,None,None,64,Normal,Healthy,Continue regular care and monitor weekly
+Yellow,Few,Mild,26,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Yellow,Few,Severe,72,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Dark Green,None,None,63,Fast,Healthy,Continue regular care and monitor weekly
+Brown,Few,Severe,32,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Light Green,None,Mild,68,Normal,Healthy,Continue regular care and monitor weekly
+Yellow,Few,Mild,47,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Light Green,Many,Severe,90,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Light Green,None,None,88,Normal,Healthy,Continue regular care and monitor weekly
+Green,None,Mild,13,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Pale Green,Many,Severe,54,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Green,Few,Severe,83,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Yellow,Many,None,71,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Pale Green,Few,None,36,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Pale Green,Few,Mild,84,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Dark Green,Few,None,58,Fast,Healthy,Continue regular care and monitor weekly
+Brown,Many,Mild,36,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Yellow,Many,Mild,86,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Pale Green,None,None,31,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Brown,Many,Mild,27,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Brown,Few,Severe,25,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Dark Green,None,None,52,Fast,Healthy,Continue regular care and monitor weekly
+Brown,None,Mild,38,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Green,Few,None,45,Fast,Healthy,Continue regular care and monitor weekly
+Light Green,None,Mild,58,Normal,Healthy,Continue regular care and monitor weekly
+Pale Green,Few,Severe,89,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Green,Many,Severe,28,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Green,Many,Severe,44,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Green,Many,Mild,13,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Light Green,Few,Mild,74,Fast,Healthy,Continue regular care and monitor weekly
+Green,Many,Mild,32,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Yellow,Many,Severe,54,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Green,Many,Mild,25,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Yellow,None,Mild,35,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Yellow,None,Mild,36,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Green,Few,Mild,67,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Green,Many,None,39,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Yellow,Many,Mild,72,None,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Brown,None,Mild,40,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Brown,Many,Mild,20,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Yellow,Many,Mild,38,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Green,None,Mild,5,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Light Green,Many,Mild,79,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Yellow,Few,Mild,8,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Yellow,None,Mild,38,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Pale Green,None,Mild,34,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
+Brown,Few,None,26,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Green,Many,None,43,None,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Pale Green,Many,None,82,None,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Pale Green,Many,Mild,38,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Green,None,None,80,Fast,Healthy,Continue regular care and monitor weekly
+Green,None,None,46,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Green,None,None,72,Normal,Healthy,Continue regular care and monitor weekly
+Green,None,Mild,32,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Pale Green,Few,Mild,20,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Yellow,Few,Severe,57,Normal,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Pale Green,Many,Mild,48,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Brown,Many,Mild,31,None,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Yellow,None,Mild,32,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Yellow,Many,Mild,85,None,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Dark Green,None,Mild,63,Fast,Healthy,Continue regular care and monitor weekly
+Green,None,Severe,10,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Yellow,Many,Mild,12,Slow,Severe Stress,Provide urgent care and request grounds personnel inspection
+Green,None,Mild,45,Fast,Healthy,Continue regular care and monitor weekly
+Green,Few,None,56,Fast,Healthy,Continue regular care and monitor weekly
+Brown,Few,None,77,Slow,Diseased,"Inspect for disease, remove affected leaves, and isolate if needed"
+Light Green,Few,Severe,36,Normal,Mild Stress,"Check watering, sunlight, and soil drainage"
+Green,None,None,46,Fast,Healthy,Continue regular care and monitor weekly
+Green,Few,Mild,58,Fast,Healthy,Continue regular care and monitor weekly
+Green,Many,Severe,21,None,Severe Stress,Provide urgent care and request grounds personnel inspection
+Pale Green,None,None,81,Slow,Mild Stress,"Check watering, sunlight, and soil drainage"
